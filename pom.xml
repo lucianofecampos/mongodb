@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>br.com.htecweb</groupId>
-    <artifactId>mongodbkubernetes</artifactId>
+    <artifactId>mongodb</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>mongodbkubernetes</name>
+    <name>mongodb</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
