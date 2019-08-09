@@ -12,7 +12,7 @@
     <artifactId>mongodb</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>mongodb</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Simple project Spring Boot and MongoDB</description>
 
     <properties>
         <java.version>11</java.version>
